@@ -40,12 +40,15 @@ die beste Cloud-Migrationsstrategie für Anwendungen und Daten steht und fällt 
 
 Wir haben erkannt, dass der optimale Weg in die Cloud am besten durch erfahrene Berater begleitet wird.
 
-Daher stellt Ihnen IONOS das bestmögliche Consulting und kostenfreien Support durch Spezialisten bereit. Sie profitieren von:
+Daher stellt Ihnen INFRECK das bestmögliche Consulting und kostenfreien Support durch Spezialisten bereit.
 
+## Compute Engine 
+
+Sie profitieren von:
 + Professional Services für effiziente Best-Practices-Migration,
 + Cloud Consultants für die Architekturberatung mit greifbarem Mehrwert,  
 + 24/7-Support durch ausgebildete Systemadministratoren – ohne Mehrkosten.
 
-
+# IaaS
 Überzeugen Sie sich selbst und testen Sie unsere INFRECK Compute Engine (IaaS) unverbindlich mit einem Startguthaben von 50,- €.
 
