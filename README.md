@@ -33,3 +33,19 @@ You’re covered by a Support Team that’s renowned for being one of the most k
 
 Infreck reserves the right to alter or amend promotional offers at any time.
 Each of the above offers is subject to it's own terms, which can be found on their individual promo pages.
+
+## INFRECK DE
+
+die beste Cloud-Migrationsstrategie für Anwendungen und Daten steht und fällt mit der Kompetenz und der Sorgfalt, mit der sie erstellt und umgesetzt ist. 
+
+Wir haben erkannt, dass der optimale Weg in die Cloud am besten durch erfahrene Berater begleitet wird.
+
+Daher stellt Ihnen IONOS das bestmögliche Consulting und kostenfreien Support durch Spezialisten bereit. Sie profitieren von:
+
++ Professional Services für effiziente Best-Practices-Migration,
++ Cloud Consultants für die Architekturberatung mit greifbarem Mehrwert,  
++ 24/7-Support durch ausgebildete Systemadministratoren – ohne Mehrkosten.
+
+
+Überzeugen Sie sich selbst und testen Sie unsere INFRECK Compute Engine (IaaS) unverbindlich mit einem Startguthaben von 50,- €.
+
